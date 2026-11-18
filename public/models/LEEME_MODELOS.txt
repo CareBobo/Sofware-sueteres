@@ -1,0 +1,8 @@
+COLOCA AQUÍ TUS MODELOS 3D (.glb o .gltf):
+
+1. Si nombras tu archivo como:
+   camiseta.glb
+
+   La aplicación lo cargará automáticamente como modelo 3D principal.
+
+2. También puedes usar el botón "Cargar Modelo 3D Propio (.glb)" directamente desde la interfaz web (pestaña 'Prenda').
